@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi There! 👋
+
+## I'm Kit, a recent graduate of a Bachelor of Computer Science in Adelaide, South Australia.
+
+# Feel free to check out my projects, including my website kittatamsaisaard.com
 
 <!--
 **ksaisaard/ksaisaard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
