@@ -10,7 +10,7 @@ I'm a passionate **IT Consultant** with experience in **Web and Mobile Developme
 - 🌱 Currently learning: **Java**
 - 🌍 Languages: **English, Thai**
 - 📫 How to reach me: **kit@kittatamsaisaard.com**
-- ⚡ Fun fact: **Can solve a Rubik's cube in under 10 seconds!**
+- ⚡ Fun fact: **Did you know that there are over 43 quintillion possible combinations (43,252,003,274,489,856,000) of a standard 3x3 Rubik's Cube? But no matter how scrambled it gets, it can always be solved in 20 moves or fewer - a fact known as "God's Number"**
 
 ## My Skills 🧠
 
