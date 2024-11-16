@@ -1,8 +1,6 @@
-# Hi there, I'm Kit! 👋
 
-![KS Logo](https://avatars.githubusercontent.com/u/50354903?v=4)
 
-## About Me 🚀
+#  Hi there, I'm Kit! 👋
 
 I'm a passionate **IT Consultant** with experience in **Web and Mobile Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
