@@ -2,7 +2,7 @@
 
 #  Hi there, I'm Kit! 👋
 
-I'm a passionate **IT Consultant** with experience in **Web and Mobile Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Developer** with experience in **Web and Mobile Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🔭 Working on: **Rubik's Clock Training Tools**
 - 🌱 Currently learning: **Java & SQL**
