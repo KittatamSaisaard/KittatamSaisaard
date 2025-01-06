@@ -5,7 +5,7 @@
 I'm a passionate **Software Developer** with experience in **Web and Mobile Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🔭 Working on: **Rubik's Clock Training Tools**
-- 🌱 Currently learning: **Java & SQL**
+- 🌱 Currently learning: **UNIX/Linux**
 - 📫 How to reach me: **kit@kittatamsaisaard.com**
 - ⚡ Fun fact: **Did you know that there are over 43 quintillion possible combinations (43,252,003,274,489,856,000) of a standard 3x3 Rubik's Cube? But no matter how scrambled it gets, it can always be solved in 20 moves or fewer - a fact known as "God's Number"**
 
